@@ -2,7 +2,7 @@
 
 # 212224240037
 
-# EXP.NO:3 FULL_ADDER_SUBTRACTOR
+# EXP.NO:3 FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
